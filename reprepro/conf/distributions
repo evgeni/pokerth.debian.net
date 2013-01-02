@@ -1,0 +1,29 @@
+Codename: squeeze
+Suite: stable
+Components: main
+Origin: pokerth.debian.net
+Description: semi-official packages of PokerTH for Debian
+Architectures: source i386 amd64
+
+Codename: wheezy
+Suite: testing
+Components: main
+Origin: pokerth.debian.net
+Description: semi-official packages of PokerTH for Debian
+Architectures: source i386 amd64
+
+Codename: sid
+Suite: unstable
+Components: main
+Origin: pokerth.debian.net
+Description: semi-official packages of PokerTH for Debian
+Architectures: source i386 amd64
+
+Codename: experimental
+Suite: rc-buggy
+Components: main
+Origin: pokerth.debian.net
+Description: semi-official packages of PokerTH for Debian
+Architectures: source i386 amd64
+
+

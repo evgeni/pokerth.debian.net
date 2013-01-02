@@ -1,0 +1,1 @@
+*/10 * * * * pokerth reprepro -b /home/pokerth/pokerth.debian.net/reprepro processincoming pokerth

@@ -1,9 +1,11 @@
 Codename: squeeze
 Suite: stable
+AlsoAcceptFor: squeeze-backports
 Components: main
 Origin: pokerth.debian.net
 Description: semi-official packages of PokerTH for Debian
 Architectures: source i386 amd64
+SignWith: 98190C12
 
 Codename: wheezy
 Suite: testing
@@ -11,6 +13,7 @@ Components: main
 Origin: pokerth.debian.net
 Description: semi-official packages of PokerTH for Debian
 Architectures: source i386 amd64
+SignWith: 98190C12
 
 Codename: sid
 Suite: unstable
@@ -18,6 +21,7 @@ Components: main
 Origin: pokerth.debian.net
 Description: semi-official packages of PokerTH for Debian
 Architectures: source i386 amd64
+SignWith: 98190C12
 
 Codename: experimental
 Suite: rc-buggy
@@ -25,5 +29,4 @@ Components: main
 Origin: pokerth.debian.net
 Description: semi-official packages of PokerTH for Debian
 Architectures: source i386 amd64
-
-
+SignWith: 98190C12

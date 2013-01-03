@@ -2,4 +2,4 @@ Name: pokerth
 IncomingDir: incoming
 TempDir: tmp
 LogDir: log
-Allow: squeeze>squeeze stable>squeeze wheezy>wheezy testing>wheezy sid>sid unstable>sid experimental>experimental rc-buggy>experimental
+Allow: squeeze>squeeze stable>squeeze squeeze-backports>squeeze wheezy>wheezy testing>wheezy sid>sid unstable>sid experimental>experimental rc-buggy>experimental
